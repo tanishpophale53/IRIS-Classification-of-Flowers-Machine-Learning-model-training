@@ -8,6 +8,7 @@ In this IRIS dataset, I have performed four types of classification, viz,
 4.KNN classification
 
 After training the dataset individually by the above mentioned Algorithms , I got the accuracies as-
+
 Algorithms--Accuracy (in %)
 
 1. Logistic Regression - 98.144814814814815
